@@ -10,5 +10,6 @@ Modified by me to add several features like:
 
 -----
 
-I'm releasing the code strictly for educaitonal purpose only.
+I'm releasing the code strictly for educational purpose only.
+
 I'm not responsible for whatever damage you might cause by using this tools.
