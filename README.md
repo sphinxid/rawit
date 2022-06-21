@@ -1,7 +1,7 @@
 # rawit
 golang http/https flooder with socks5 support
 
-Originally written by Leeon123 (https://github.com/Leeon123)
+Originally written by Leeon123 ([https://github.com/Leeon123](https://github.com/Leeon123/golang-httpflood))
 
 Modified by me to add several features like: 
 - random string support
