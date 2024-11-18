@@ -1,6 +1,6 @@
 # Rawit
 
-Rawit is a powerful HTTP/HTTPS performance testing tool written in Go. It supports various features including concurrent testing, SOCKS5 proxy support, and basic performance metrics.
+Rawit is a powerful HTTP/HTTPS "performance testing" tool written in Go. It supports various features including concurrent testing, SOCKS5 proxy support, and basic performance metrics.
 
 ## Features
 
@@ -9,10 +9,11 @@ Rawit is a powerful HTTP/HTTPS performance testing tool written in Go. It suppor
 - Custom headers and request body
 - HTTP/2 support
 - SOCKS5 proxy support
+- Use Raw socket for SOCKS5 proxy support with HTTP1.1 for better performance
 - TLS configuration (including insecure mode for self-signed certificates)
 - Connection keep-alive support
 - Custom User-Agent setting
-- Detailed performance metrics
+- Basic performance metrics
 - Duration-based or infinite testing
 
 ## Installation
